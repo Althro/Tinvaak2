@@ -1,8 +1,14 @@
 # Tinvaak 2
 
+Wabbajack Modlist Installer by Althro & The Animonculory.
+
+**Modlist Download: [Tinvaak.wabbajack](https://github.com/Althro/Tinvaak2/releases/tag/V2.1.1HF)**
+
+**Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
+
 ![Tinvaak-banner](https://raw.githubusercontent.com/Althro/Tinvaak2/main/.github/T2Banner.webp)
 
-Wabbajack Modlist Installer by Althro & The Animonculory.
+
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
