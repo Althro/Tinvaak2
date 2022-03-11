@@ -1,5 +1,17 @@
 # Changelog
 
+## 2.2 - Back in the Saddle 
+
+**Buid at:** `soon`
+
+**This update is NOT save safe**
+
+### Fixed
+- Engine Fixes.toml adjusted MaxStudio Value to get rid of the false save corruption
+- NGIO config adjusted for better performance
+- Scrambled Bugs configs adjusted
+- Perk Distribution for enemies to be a bit more forgiving
+
 ## 2.1.1
 
 **Notes**: **Should be save compatible, provided you have not met Inigo. If you have, then it's not save safe.**
