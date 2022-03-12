@@ -79,8 +79,6 @@ Space required: Approx 250GB
 
 ## Installation
 
-**Tinvaak DOES NOT work with any builds newer than 1.5.97. You must downgrade your Skyrim to play this list.**
-
 Installing Tinvaak is relatively easy and, if you have nexus premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
 
 ### Pre-Installation
@@ -92,9 +90,6 @@ Prior to installing Tinvaak, please complete the following steps.
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside `/Documents/My Games/`.
 4. Reinstall Skyrim into a location that is not Program files or your desktop. Somewhere like `C:\Games` is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-6. Manually download the [Unofficiall Skyrim Downloader](https://www.nexusmods.com/skyrimspecialedition/mods/61756) and place it somewhere like `C:\Games`
-7. Log-in to the service, select game version `1.5.97.0` and start downloading. 
-8. Once completed, your game will be the correct version for Tinvaak. 
 
 ### Wabbajack Installation
 
@@ -106,10 +101,10 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 Downloading and installing Tinvaak can take a while depending on your internet connection and computer. To install Tinvaak, complete the following steps.
 
-1. Download the latest installer from [releases](https://github.com/Althro/Tinvaak2/releases) tab. Move it to a location such as C:\Games.
-2. Open Wabbajack and click on install from disk.
-3. Select the file you just downloaded called `Tinvaak.wabbajack`.
-4. Set the installation folder to be somewhere like C:\Games\Tinvaak. **Do not install it to your desktop or downloads folder.** The downloads folder will autofill.
+
+1. Open Wabbajack and click on browse modlists.
+2. Press the download button on Tinvaak and wait for it to download.
+3. Set the installation folder to be somewhere like C:\Games\Tinvaak. **Do not install it to your desktop or downloads folder.** The downloads folder will autofill.
 4. Press the play button to begin.
 5. Go and pet your nearest fluffy animal whilst Wabbajack does its thing.
 6. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
@@ -204,7 +199,6 @@ Before updating, please check the changelog and back up your saves. You may need
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
 
 ## FAQ
-
 
 ### Anniversay Edition
 
