@@ -1,5 +1,21 @@
 # Changelog
 
+## 2.2.1
+
+**Save compatible with Version 2.2 installs**
+
+**Build at:** `12/03/2022 12:49:25`
+
+**Info**:
+
+- Fixed issue with paid Creation club content being required on install
+- Download Size change: 39.1MB (Total: 84.4GB)
+- Install Size change: -12.1KB (Total: 132.4GB)
+
+**Download Changes**:
+
+- Added [Harsher Sunhelm Cold](https://www.nexusmods.com/skyrimspecialedition/mods/63548/?tab=files&file_id=263878)
+
 ## 2.2 - Back in the Saddle 
 
 **This update is NOT save safe**
