@@ -2,7 +2,7 @@
 
 Wabbajack Modlist Installer by Althro & The Animonculory.
 
-**Modlist Download: [Tinvaak.wabbajack](https://github.com/Althro/Tinvaak2/releases/tag/V2.1.1HF)**
+**Modlist Download: [Wabbajack UI](https://github.com/wabbajack-tools/wabbajack/releases)**
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
