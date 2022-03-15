@@ -192,7 +192,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
-### Anniversay Edition
+### Anniversary Edition
 
 Neither the AE version of the game nor the Creation Club content that comes with it are supported with Tinvaak. It will not work if you just add it!
 
@@ -202,7 +202,7 @@ You need to be level 5 and open the crafting kit to use this. For more detail on
 
 ### Controller Setup
 
-Please follow this [excellent guide by ShadesOfDawn and Chri3i](https://github.com/chri3i/Gamepad-Guide-by-ShadesOfDawn-and-me) for setting up a controller with Tinvaak. Antimicro is included with the list to allow for Engarde compatibility.
+Please follow this [excellent guide by ShadesOfDawn and Chri3i](https://github.com/chri3i/Gamepad-Guide-by-ShadesOfDawn-and-me) for setting up a controller with Tinvaak. Antimicro is included with the list.
 
 ### Ultrawide Options
 
