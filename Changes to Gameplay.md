@@ -54,13 +54,9 @@ Tinvaak comes with a a curated selection of Magic mods to fit a range of differe
 
 Tinvaak 2 completely reworks combat from the previous version by including a fully updated suite of mechanics and animations.
 
-1. [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) forms the bread and butter of the combat mechanics. It features numerous changes to the way combat is done in Skyrim and is covered in its own guide. 
+1. [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) overhauls the third-person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction.
 
-2. [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) overhauls the third-person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction.
-
-3. [SkySa](https://www.nexusmods.com/skyrimspecialedition/mods/31390) forms the basis of the new combat animation framework. The Elder Souls style animations are then used to provide realistic and fitting animations for weapons in the game. 
-
-**Warning**: Keep in mind that thanks to pairing Engarde with SkySA your power attacks are part of a combo attack, they only work after the first swing! It will take a bit of time to get used to.
+2. [SkySa](https://www.nexusmods.com/skyrimspecialedition/mods/31390) forms the basis of the new combat animation framework. The Elder Souls style animations are then used to provide realistic and fitting animations for weapons in the game. 
 
 ## Quest and Encounter Mods
 
