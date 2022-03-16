@@ -10,7 +10,7 @@ Tinvaak uses [ReClassified Ordinator](https://www.nexusmods.com/skyrimspecialedi
 
 Various other gameplay mods used include:
 
-1. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing enemies.
+1. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing enemies. Skills are now level capped, so we invite you to read the mod page for further information.
 
 2. [Class Overhaul Re Imagined(CORI)](https://www.nexusmods.com/skyrimspecialedition/mods/51043) and [Attribute Value Application(AVA)](https://www.nexusmods.com/skyrimspecialedition/mods/23329) form the core of the roleplaying overhaul mods. Your character will now develop and can specialise in areas right from the start.
 
@@ -57,6 +57,10 @@ Tinvaak 2 completely reworks combat from the previous version by including a ful
 1. [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) overhauls the third-person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction.
 
 2. [SkySa](https://www.nexusmods.com/skyrimspecialedition/mods/31390) forms the basis of the new combat animation framework. The Elder Souls style animations are then used to provide realistic and fitting animations for weapons in the game. 
+
+3. [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045) fixes Skyrim's repetitive combat by changing the resistance and susceptibility of enemies to different weapons and spells.
+
+4. [Know Your Enemy Redux - Armors](https://www.nexusmods.com/skyrimspecialedition/mods/55203) fixes Skyrim's repetitive combat by changing the resistance and susceptibility of armors to different weapons and spells.
 
 ## Quest and Encounter Mods
 
