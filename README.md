@@ -51,7 +51,7 @@ Wabbajack Modlist Installer by Althro & The Animonculory.
 
 > "The Dragonborn may very well save the day, but to this uncaring realm, you are just a mortal. You are yet another unimportant person in the world, something that passersby see and rarely interact with. As you advance, weapons drawn, you hesitate, unsure if you can really do this. That tiny bit of uncertainty, that small voice of doubt: It's amplified and ever-present."
 
-Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the [showcase video from DroppedIceCream](https://www.youtube.com/watch?v=4N0cOrv5Crc), the [official trailer](https://youtu.be/8bLSGfok47g) and the [Changes to Gameplay](https://github.com/Althro/Tinvaak2/blob/main/Changes%20to%20Gameplay.md) article.
+Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the [showcase video from DroppedIceCream](https://www.youtube.com/watch?v=4N0cOrv5Crc), the [official trailer](https://youtu.be/8bLSGfok47g) and the [Beginners guide](https://github.com/Althro/Tinvaak2/blob/main/Beginners%20Guide%20to%20Tinvaak.md).
 
 Support for the list is handled on the [official Animonculory discord server](https://discord.gg/DffHKcszfg).
 
@@ -99,7 +99,6 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 #### Downloading and Installing Tinvaak
 
 Downloading and installing Tinvaak can take a while depending on your internet connection and computer. To install Tinvaak, complete the following steps.
-
 
 1. Open Wabbajack and click on browse modlists.
 2. Press the download button on Tinvaak and wait for it to download.
@@ -157,32 +156,7 @@ Open the installation folder and double click on the program called `ModOrganize
 
 Make sure the dropdown box on the right is set to `Play Tinvaak` and press the run button.
 
-### Post Character creation
-
-#### Important steps
-
-Once you have created your character and all the messages on screen have dissappeared, wait until you get a prompt to `assign your attributes` and assign them. **Note**: These are permanent so choose wisely. You can then use the Medical history book to assign more attributes should you wish. 
-
-Once you have completed that, you are free to explore the room. Take a look around at the containers and whatever is on the table, they may be useful for your adventures. When you have finished examining the room, talk to the little dragon next to the door to select a start of your choice, then go through the door to begin your journey.
-
-#### In-Game MCM options
-
-All the important MCM options are automatically configured for you already. Once all the messages have disappeared, you have confirmed the Dino’s Spell Casting pop-up and assigned your attributes, tweak the following to your liking:
-
-- Lucien (If you set a supported nickname, he will call you by that)
-- SkyUI
-- SV Mods Menu (Spells Cost Stamina and Spell learning requirements)
-
-**DO NOT TOUCH THE DEFLECTION MCM. YOU WILL BREAK MANY THINGS.**
-
-#### Sunhelm
-
-After you have spawned into the world, open the MCM menu and navigate to SunHelm. Set the following settings.
-
-- General Settings
-	- Gameplay Options
-		- Raw Meat Damage [unchecked]
-		- Carry Weight Penalty [unchecked]
+**The rest of the setup is detailed in the [Beginners Guide to Tinvaak](https://github.com/Althro/Tinvaak2/blob/main/Beginners%20Guide%20to%20Tinvaak.md). It is HIGHLY RECOMMENDED that you read it**
 
 ## Updating the modlist
 
@@ -206,13 +180,7 @@ Please follow this [excellent guide by ShadesOfDawn and Chri3i](https://github.c
 
 ### Ultrawide Options
 
-I personally do not own an Ultrawide, so I cannot offer support beyond what is below. To properly configure a 21x9 ultrawide, complete the following.
-
-1. Download [Complete widescreen fix for vanilla and SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=files) and place the installed files above Hoizons UI.
-2. Activate the Horizons UI 21:9 mod
-3. Activate Oblivion-like Loading Menu 21x9
-4. Open BethINI, set your resolution and enable borderless windowed
-5. In the Extended UI MCM set your Aspect Ratio
+Please follow the ultrawide instructions in the [beginners guide to Tinvaak](https://github.com/Althro/Tinvaak2/blob/main/Beginners%20Guide%20to%20Tinvaak.md#ultrawide).
 
 ### Tweaking the Game Settings
 
@@ -261,7 +229,7 @@ Simply delete the folder and you have uninstalled it.
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- Chef & Spaniard for assisting with so many things. You’re both awesome.
+- Chef, Styyx & Spaniard for assisting with so many things. You’re both awesome.
 - Annakins for testing, the trailer, and the logo. You’re awesome.
 - The Animonculory Dev Team
 - Galaxy Synth for Tinvaak 1.
