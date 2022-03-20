@@ -55,22 +55,19 @@ Magic has been overhauled entirely via the use of [Dino's Spell Discovery](https
 
 And for those that enjoy the slightly darker side of magic, [The Dark Arts](https://www.nexusmods.com/skyrimspecialedition/mods/29834) and [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180) add in a whole host of new necromantic spells and, courtesy of the latter, the ability to become a terrifying lich. 
 
-### Levelling and Alchemy
+### Levelling, crafting & Alchemy
 One of the biggest changes Tinvaak makes is completely decoupling the levelling system from your character. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes the game so that you gain experience from exploring the world, killing enemies and completing quests. Skills are **LEVEL CAPPED** to the following:
 
 ![experience levels](https://github.com/Althro/Tinvaak2/blob/main/.github/Experience%20Levelling.png?raw=true)
 
 [True Unleveled Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/56881) changes the levelling in encounter zones so that certain areas start more deadly than others. Bandits will make for easier targets at the beginning with Dragons and vampires remaining very deadly until you attain higher skill levels. Enemies will still remain challenging with [High Level Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/32801), keeping certain locations a challenge.
 
-Combat alchemy is now also a viable playstyle courtesy of [Badass Alchemist's Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030), which adds many new concotions to unleash upon your enemies. To quote a certain Argonian regarding this new playstyle:
-> “Oh, surprised at the line being broken so easily? They don’t call me Siegebreaker for nothing, Breton. A pinch of sulphur, some powerful vinegar, a dash of ingenuity and some rags for a wick and I’ll put any Pyromancer to shame. I also do nameday parties if you can cover the cost of my ingredients and a night at the inn. Now stand back. They seem to be recovering and I have a new mixture I want to test. Got an arrow I can have? I’ll be fine but your lungs will dissolve like sweetroll frosting on a hot day if you get anywhere near this.” – Upon Further Reflection
-
-### Crafting and loot
 > "The forge warms this one's cold paws. You need to read to master the skills to be a great smith, yes? Gold solves most problems, though." - S'Mardo
 
 Another large change that Tinvaak makes is changing crafting so that you need forging manuals to craft new items. [Heim -Smithing Tweaks and Lightweight overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207) also makes some more tweaks to make smithing more rewarding. For those not wanting to invest in crafting, you will find forgemasters across Skyrim ready to [Hone Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) for the right price. 
 
-[Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) handles loot for the worldspaces to ensure a balanced level of loot is achieved across the world. Expect to see some new material being used by certain enemies and a greater variety of gems, potions and exoctic ingredients in chests.
+Combat alchemy is now also a viable playstyle courtesy of [Badass Alchemist's Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030), which adds many new concotions to unleash upon your enemies. To quote a certain Argonian regarding this new playstyle:
+> “Oh, surprised at the line being broken so easily? They don’t call me Siegebreaker for nothing, Breton. A pinch of sulphur, some powerful vinegar, a dash of ingenuity and some rags for a wick and I’ll put any Pyromancer to shame. I also do nameday parties if you can cover the cost of my ingredients and a night at the inn. Now stand back. They seem to be recovering and I have a new mixture I want to test. Got an arrow I can have? I’ll be fine but your lungs will dissolve like sweetroll frosting on a hot day if you get anywhere near this.” – Upon Further Reflection
 
 ### Survival
 > "The Wind blows bitter cold in this place." - S'Mardo
