@@ -113,6 +113,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+	- Files that often fail for various reasons: [The Ultimate Dodge Mod](https://drive.google.com/u/0/uc?id=0B2VgBVA9jE6RTjJiYnRTTE9qRUE&export=download), [Sigils of Skyrim - Shields 2K](https://drive.google.com/u/0/uc?id=13m52cS2gNGhFGSOE44APEZAbDa7miSCd&export=download) and [Sigils of Skyrim - Banners](https://drive.google.com/u/0/uc?id=1W7KQCt44EMOHIZhrRrbosJnIoor4h0MX&export=download)
 
 - x is not a whitelisted download:
 
