@@ -1,5 +1,21 @@
 # Changelog
 
+## 2.3
+
+**Not save compatible**
+
+**Info**:
+- Fixed issue with Mihail Guars
+- Fixed issue with ScrollScribe not showing new spells
+- Fixed issue with signpost fast travel not working [in progress]
+- Fixed issue with NPC facegen [in progress]
+- Fixed issue with nordic reliefs being bright white
+- Fixed attack speed issue [in progress]
+- Fixed floating table in Falkreath [in progress]
+- Regenerated Lods & Synthesis
+- Removed generated facegen
+- Reworked a lot of areas to improve FPS.
+
 ## 2.2.1
 
 **Save compatible with Version 2.2 installs**
