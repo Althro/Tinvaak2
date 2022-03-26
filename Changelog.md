@@ -7,11 +7,11 @@
 **Info**:
 - Fixed issue with Mihail Guars
 - Fixed issue with ScrollScribe not showing new spells
-- Fixed issue with signpost fast travel not working [in progress]
+- Fixed issue with signpost fast travel not working
 - Fixed issue with NPC facegen [in progress]
 - Fixed issue with nordic reliefs being bright white
-- Fixed attack speed issue [in progress]
-- Fixed floating table in Falkreath [in progress]
+- Fixed attack speed issue
+- Fixed floating table in Falkreath
 - Regenerated Lods & Synthesis
 - Removed generated facegen
 - Reworked a lot of areas to improve FPS.
