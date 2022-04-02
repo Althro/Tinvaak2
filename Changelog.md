@@ -1,20 +1,65 @@
 # Changelog
 
-## 2.3
+## 2.3 - The long road home...
 
 **Not save compatible**
+
+**NOTE: This is the last PLANNED update to Tinvaak 2. We are stopping active development and will be beginning work on Tinvaak 3 after a short break.**
+
+**Build at:** `02/04/2022 14:45:15`
 
 **Info**:
 - Fixed issue with Mihail Guars
 - Fixed issue with ScrollScribe not showing new spells
 - Fixed issue with signpost fast travel not working
-- Fixed issue with NPC facegen [in progress]
 - Fixed issue with nordic reliefs being bright white
 - Fixed attack speed issue
 - Fixed floating table in Falkreath
 - Regenerated Lods & Synthesis
 - Removed generated facegen
 - Reworked a lot of areas to improve FPS.
+- Rebuilt NPC Merge (Thanks Chef!)
+- Download Size change: 2.1GB (Total: 82.4GB)
+- Install Size change: 55.3MB (Total: 132.4GB)
+
+**Download Changes**:
+
+- Added [BeastHHBB - Khajiit and Argonian content - player character and NPC replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38480/?tab=files&file_id=265306)
+- Added [Class Overhaul Re-Imagined (SkyRem - Cori)](https://www.nexusmods.com/skyrimspecialedition/mods/24808/?tab=files&file_id=217481)
+- Added [Complete NPC Overhaul - Argonians](https://www.nexusmods.com/skyrimspecialedition/mods/57701/?tab=files&file_id=246132)
+- Added [Courier is a job SE - AE](https://www.nexusmods.com/skyrimspecialedition/mods/61889/?tab=files&file_id=256487)
+- Added [Dapper Deliveries - A Courier Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/64057/?tab=files&file_id=266435)
+- Added [Nordic Faces - Immersive Characters Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40658/?tab=files&file_id=169149)
+- Added [One Click Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/60878/?tab=files&file_id=252817)
+- Added [Pandorable's NPCs - males](https://www.nexusmods.com/skyrimspecialedition/mods/42043/?tab=files&file_id=171524)
+- Added [RYFTEN - Make Your Riften - Inner](https://www.nexusmods.com/skyrimspecialedition/mods/63340/?tab=files&file_id=267799)
+- Added [SKY CITY - Markarth Rising](https://www.nexusmods.com/skyrimspecialedition/mods/22482/?tab=files&file_id=99502)
+- Added [Solitude Slightly Extended](https://www.nexusmods.com/skyrimspecialedition/mods/59602/?tab=files&file_id=246942)
+- Added [Solitude and Temple Frescoes - Cleaned and Upscaled](https://www.nexusmods.com/skyrimspecialedition/mods/58446/?tab=files&file_id=241476)
+- Added [TREES ADDON SE](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=98593)
+- Added [Tragedian's Fabulous Followers SSE](https://www.nexusmods.com/skyrimspecialedition/mods/57284/?tab=files&file_id=265418)
+- Added [Unique Map Weather Framework](https://www.nexusmods.com/skyrimspecialedition/mods/59919/?tab=files&file_id=262162)
+- Added [Walls of Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/65144/?tab=files&file_id=270971)
+- Added [Weapon Speed Mult Fix](https://www.nexusmods.com/skyrimspecialedition/mods/45502/?tab=files&file_id=195682)
+- Removed [Aspens Ablaze](https://www.nexusmods.com/skyrimspecialedition/mods/39998/?tab=files&file_id=190648)
+- Removed [Bijin Skin UNP and CBBE SE](https://www.nexusmods.com/skyrimspecialedition/mods/20078/?tab=files&file_id=71720)
+- Removed [Class Overhaul Re-Imagined (SkyRem - Cori) - Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/51043/?tab=files&file_id=224612)
+- Removed [Dawn of Skyrim (Director's Cut) SE](https://www.nexusmods.com/skyrimspecialedition/mods/9074/?tab=files&file_id=144970)
+- Removed [ElSopa - HD Medieval Anvil SE](https://www.nexusmods.com/skyrimspecialedition/mods/48825/?tab=files&file_id=199854)
+- Removed [JKs Cities - Lite and SuperLite](https://www.nexusmods.com/skyrim/mods/71018/?tab=files&file_id=1000230180)
+- Removed [Missives - Dawn of Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36455/?tab=files&file_id=146358)
+- Removed [RUSTIC RELIEFS](https://www.nexusmods.com/skyrimspecialedition/mods/34684/?tab=files&file_id=215195)
+- Removed [Sojourn Over Signposts - Witcher-Style Fast Travel Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/51567/?tab=files&file_id=238474)
+- Removed [The Ordinary Women SSE](https://www.nexusmods.com/skyrimspecialedition/mods/12376/?tab=files&file_id=177232)
+- Removed [VHR - Vanilla Hair Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/25574/?tab=files&file_id=121427)
+- Removed [eeekie's Enhanced NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30757/?tab=files&file_id=225574)
+- Updated [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=271294)
+- Updated [Animated Forge Water](https://www.nexusmods.com/skyrimspecialedition/mods/52322/?tab=files&file_id=249209)
+- Updated [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=271949)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382/?tab=files&file_id=271563)
+- Updated [Illustrious Whiterun SE - 8K - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/28950/?tab=files&file_id=217115)
+- Updated [eeekie's Enhanced NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30757/?tab=files&file_id=247516)
+
 
 ## 2.2.1
 
