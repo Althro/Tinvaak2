@@ -157,6 +157,33 @@ Open the installation folder and double click on the program called `ModOrganize
 
 Make sure the dropdown box on the right is set to `Play Tinvaak` and press the run button.
 
+### Post Character creation
+
+#### Important steps
+
+Once you have created your character and all the messages on screen have dissappeared, wait until you get a prompt to `assign your attributes` and assign them. **Note**: These are permanent so choose wisely. You can then use the Medical history book to assign more attributes should you wish. 
+
+Once you have completed that, you are free to explore the room. Take a look around at the containers and whatever is on the table, they may be useful for your adventures. When you have finished examining the room, talk to the little dragon next to the door to select a start of your choice, then go through the door to begin your journey.
+
+#### In-Game MCM options
+
+All the important MCM options are automatically configured for you already. Once all the messages have disappeared, you have confirmed the Dino’s Spell Casting pop-up and assigned your attributes, tweak the following to your liking:
+
+- Lucien (If you set a supported nickname, he will call you by that)
+- SkyUI
+- SV Mods Menu (Spells Cost Stamina and Spell learning requirements)
+
+**DO NOT TOUCH THE DEFLECTION MCM. YOU WILL BREAK MANY THINGS.**
+
+#### Sunhelm
+
+After you have spawned into the world, open the MCM menu and navigate to SunHelm. Set the following settings.
+
+- General Settings
+	- Gameplay Options
+		- Raw Meat Damage [unchecked]
+		- Carry Weight Penalty [unchecked]
+
 **The rest of the setup is detailed in the [Beginners Guide to Tinvaak](https://github.com/Althro/Tinvaak2/blob/main/Beginners%20Guide%20to%20Tinvaak.md). It is HIGHLY RECOMMENDED that you read it**
 
 ## Updating the modlist
