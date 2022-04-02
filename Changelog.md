@@ -19,6 +19,7 @@
 - Removed generated facegen
 - Reworked a lot of areas to improve FPS.
 - Rebuilt NPC Merge (Thanks Chef!)
+- Fixed Elven armor issues (Thanks Teldram!)
 - Download Size change: 2.1GB (Total: 82.4GB)
 - Install Size change: 55.3MB (Total: 132.4GB)
 
