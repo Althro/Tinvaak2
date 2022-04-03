@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.3.1 - Dang it...
+
+**Save Compatible**
+
+**Info**:
+- Fixed issue with Olava
+- Fixed Purple hair on NPC's
+- Fixed plants in Dragonbridge
+- Fixed Markarth Exterior
+
 ## 2.3 - The long road home...
 
 **Not save compatible**
