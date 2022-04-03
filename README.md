@@ -8,8 +8,6 @@ Wabbajack Modlist Installer by Althro & The Animonculory.
 
 ![Tinvaak-banner](https://raw.githubusercontent.com/Althro/Tinvaak2/main/.github/T2Banner.webp)
 
-
-
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
@@ -143,12 +141,27 @@ You will need to use BethINI to set your monitors screen resolution. If you donâ
 5. Press save and exit.
 
 ### ENB
+Tinvaak comes already set up with [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333) for Obsidian Weathers. If you wish to use a different ENB, you should make sure to use one that support Lux. To replace the ENB, complete the following steps.
 
-Tinvaak comes already set up with Ominous ENB for Obsidian Weathers. If you wish to use a different ENB, you should make sure to use one that support Lux. To replace the ENB, complete the following steps.
+#### Using ENB Manager
 
-1. Delete the enbcache, enbseries folders and the enbseries.ini from the Game Root folder (/installation folder/Game Root).
-2. Download an ENB you want.
-3. Copy the enbseries folder and enbseres.ini into the Game Root folder.
+*NOTE: The images in this section are taken from AVO so will look different to what you see.*
+
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Run the program named `Change ENB` from Mod Organizer 2.
+
+If the image below comes up, simply press OK. It is nothing to be concerned about.
+
+![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/Ignore%20Warning.png?raw=true)
+
+Navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
+
+![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%203.png?raw=true)
+
+Activate the ENB you wish to use by pressing the slider. To deactivate it, simply press the slider.
+
+![image](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/.github/ENB%205.png)
+
+For adding your own presets and more details, take a look at [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077) for more information.
 
 ## Playing the List
 
