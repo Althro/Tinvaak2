@@ -270,9 +270,7 @@ Simply delete the folder and you have uninstalled it.
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- Chef, Styyx & Spaniard for assisting with so many things. You’re both awesome.
-- Annakins for testing, the trailer, and the logo. You’re awesome.
-- The Animonculory Dev Team
+- The Animonculory Team
 - Galaxy Synth for Tinvaak 1.
 - Noggog for Mutagen.
 - iXanza, JanuarySnow and OsmosisWrench for recompiled MCM scripts for automation.
@@ -284,3 +282,13 @@ Simply delete the folder and you have uninstalled it.
 Whilst I am available primarily on [my server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/Althro/Tinvaak2/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
 
 You are welcome to [contribute](https://github.com/Althro/Tinvaak2/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/Althro/Tinvaak2/blob/main/Changelog.md) before you do.
+
+## The Animonculory Team
+- Althro - Leader & Head of Development
+- Styyx - Senior Management Team & Dev Team
+- Chef/Para0x - Senior Management Team & Dev Team
+- The Spaniard -Senior Management Team & Documentation
+- GuitarBarbarian - Senior Management Team
+- Annakins - Dev Team, Testing, Graphics & Documentation
+- Astro - Dev Team & Testing
+- DestinySlayer - Dev Team & Community Engagement
