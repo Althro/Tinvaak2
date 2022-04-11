@@ -99,4 +99,4 @@ Skyrim can be a lonely place, and the battles can be tough. Thankfully, there ar
 
 > "Khajiit has shown you all he knows. You must do the rest..." S'Mardo
 
-If you require more information/want to learn more about certain gameplay mechanics, check out the [Advanced gameplay guide]() and visit the modpages listed in this guide. We hope that you enjoy Tinvaak :)
+If you require more information/want to learn more about certain gameplay mechanics, check out the [Advanced gameplay guide](https://github.com/Althro/Tinvaak2/blob/main/Advanced%20Gameplay%20Overview.md) and visit the modpages listed in this guide. We hope that you enjoy Tinvaak :)
