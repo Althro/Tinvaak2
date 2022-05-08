@@ -4,6 +4,8 @@
 
 **Not Save Compatible**
 
+**Build at:** `08/05/2022 18:00:24`
+
 **Info**:
 - Fixed issues with NPCS having weird hair and missing face data.
 - Fixed bug with starting the main quest
@@ -11,7 +13,42 @@
 - Fixed issue with ORCS file
 - Regenerated genned files.
 - Few other minor tweaks for stability.
+- Download Size change: -230.8MB (Total: 76.5GB)
+- Install Size change: 6.2GB (Total: 125.9GB)
 
+**Download Changes**:
+
+- Added [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38845/?tab=files&file_id=178217)
+- Added [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610/?tab=files&file_id=1000213503)
+- Added [JS Dwarven Oil SE](https://www.nexusmods.com/skyrimspecialedition/mods/66770/?tab=files&file_id=278260)
+- Added [JS Dwemer Artifacts SE](https://www.nexusmods.com/skyrimspecialedition/mods/67631/?tab=files&file_id=281872)
+- Added [JS Dwemer Ichor Barrels SE](https://www.nexusmods.com/skyrimspecialedition/mods/67162/?tab=files&file_id=279934)
+- Added [JS Dwemer Kitchenware SE](https://www.nexusmods.com/skyrimspecialedition/mods/67026/?tab=files&file_id=279343)
+- Added [JS Essence Extractor SE](https://www.nexusmods.com/skyrimspecialedition/mods/66578/?tab=files&file_id=277350)
+- Added [Lost of T'Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9951/?tab=files&file_id=134018)
+- Added [Mrf's Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/53626/?tab=files&file_id=223855)
+- Added [Reverie - Skin](https://www.nexusmods.com/skyrimspecialedition/mods/64314/?tab=files&file_id=272308)
+- Added [Sconces of Skyrim - Markarth Braziers Improved](https://www.nexusmods.com/skyrimspecialedition/mods/67386/?tab=files&file_id=281222)
+- Added [Vanilla hair remake](https://www.nexusmods.com/skyrimspecialedition/mods/63979/?tab=files&file_id=268282)
+- Removed [Anima Nera - SerketHetyt's Serana Replacer and Nera Follower](https://www.nexusmods.com/skyrimspecialedition/mods/57698/?tab=files&file_id=238032)
+- Removed [Complete NPC Overhaul - Argonians](https://www.nexusmods.com/skyrimspecialedition/mods/57701/?tab=files&file_id=246132)
+- Removed [Courier is a job SE - AE](https://www.nexusmods.com/skyrimspecialedition/mods/61889/?tab=files&file_id=256487)
+- Removed [Dapper Deliveries - A Courier Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/64057/?tab=files&file_id=266435)
+- Removed [Inconsequential NPCs](https://www.nexusmods.com/skyrim/mods/36334/?tab=files&file_id=1000165316)
+- Removed [Inigo the Suave - High-Poly Replacer or Racemenu Preset](https://www.nexusmods.com/skyrimspecialedition/mods/38860/?tab=files&file_id=153610)
+- Removed [Nordic Faces - Immersive Characters Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40658/?tab=files&file_id=169149)
+- Removed [ORCS - Become Chief to the Stronghold of Vosh Krazak](https://www.nexusmods.com/skyrimspecialedition/mods/50037/?tab=files&file_id=217539)
+- Removed [REALORE Skin -CBBE-UNP Female Texture](https://www.nexusmods.com/skyrimspecialedition/mods/62739/?tab=files&file_id=262905)
+- Removed [Skyland - Markarth](https://www.nexusmods.com/skyrimspecialedition/mods/64785/?tab=files&file_id=269296)
+- Removed [Tragedian's Fabulous Followers SSE](https://www.nexusmods.com/skyrimspecialedition/mods/57284/?tab=files&file_id=265418)
+- Removed [eeekie's Enhanced NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30757/?tab=files&file_id=247516)
+- Removed [eeekie's Ulfric](https://www.nexusmods.com/skyrimspecialedition/mods/50701/?tab=files&file_id=206965)
+- Removed [the Dwemer 4K 2K](https://www.nexusmods.com/skyrimspecialedition/mods/49234/?tab=files&file_id=201723)
+- Updated [Alternate Perspective - Prologue Retold](https://www.nexusmods.com/skyrimspecialedition/mods/50307/?tab=files&file_id=275474)
+- Updated [ClefJ's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/33044/?tab=files&file_id=255593)
+- Updated [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=281907)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382/?tab=files&file_id=281908)
+- Updated [Lost of T'Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9951/?tab=files&file_id=143722)
 
 
 ## 2.3.1 - Dang it...
