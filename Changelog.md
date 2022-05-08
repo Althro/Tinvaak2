@@ -1,5 +1,19 @@
 # Changelog
 
+## 2.4
+
+**Not Save Compatible**
+
+**Info**:
+- Fixed issues with NPCS having weird hair and missing face data.
+- Fixed bug with starting the main quest
+- Fixed bug with ClefJ's Fort Dawnguard
+- Fixed issue with ORCS file
+- Regenerated genned files.
+- Few other minor tweaks for stability.
+
+
+
 ## 2.3.1 - Dang it...
 
 **Save Compatible**
