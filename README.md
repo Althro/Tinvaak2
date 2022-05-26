@@ -54,7 +54,9 @@ Wabbajack Modlist Installer by Althro & The Animonculory.
 
 > "The Dragonborn may very well save the day, but to this uncaring realm, you are just a mortal. You are yet another unimportant person in the world, something that passersby see and rarely interact with. As you advance, weapons drawn, you hesitate, unsure if you can really do this. That tiny bit of uncertainty, that small voice of doubt: It's amplified and ever-present."
 
-Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the [showcase video from DroppedIceCream](https://www.youtube.com/watch?v=4N0cOrv5Crc), the [official trailer](https://youtu.be/8bLSGfok47g) and the [Beginners guide](https://github.com/Althro/Tinvaak2/blob/main/Beginners%20Guide%20to%20Tinvaak.md).
+Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the the [Beginners guide](https://github.com/Althro/Tinvaak2/blob/main/Beginners%20Guide%20to%20Tinvaak.md), the [official trailer](https://youtu.be/8bLSGfok47g) and the showcase by DroppedIceCream below.
+
+[![Tinvaak 2 Showcase](https://img.youtube.com/vi/4N0cOrv5Crc/0.jpg)](https://www.youtube.com/watch?v=4N0cOrv5Crc)
 
 Support for the list is handled on the [official Animonculory discord server](https://discord.gg/DffHKcszfg).
 
