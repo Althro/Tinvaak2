@@ -2,7 +2,18 @@
 
 ## Tinvaak X
 
+**GIGACHONK UPDATE**
+
 `Coming soon`
+
+**NOT SAVE SAFE. DO NOT EVEN TRY.**
+
+**Info**:
+- Updated Engine to 1.6.343
+- Added Paid Anniversary Update
+- **MAJOR** rework of visuals and content
+- Repatched where necessary
+- More details `soon`
 
 ## 2.4
 
