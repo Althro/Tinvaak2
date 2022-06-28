@@ -1,19 +1,37 @@
 # Changelog
 
-## Tinvaak X
-
-**GIGACHONK UPDATE**
+## Tinvaak X - "The Last Stand"
 
 `Coming soon`
 
 **NOT SAVE SAFE. DO NOT EVEN TRY.**
 
 **Info**:
-- Updated Engine to 1.6.343
-- Added Paid Anniversary Update
-- **MAJOR** rework of visuals and content
-- Repatched where necessary
-- More details `soon`
+- Updated base game to version 1.6.343
+- Added Paid Creation Club Anniversary Content (**You will need this to play this update. No I will not remove it or offer a non paid update version.**)
+- Updated all DLL based plugins to be compatible with v1.6.x or removed where incompatible
+- Reworked Visuals to be slightly more in line with AVO
+  - Trees have been consolidated and tweaked to provide better performance
+  - Removed some mods which were no longer necessary/better option already present in the list
+  - A few other texture mods have been changed/replaced with better/more performant alternatives
+  - Visually the list will still be different from AVO, but does now have greater consistency 
+  - Combed through and custom picked mesh replacers to ensure consistency and optimisation
+  - Reworked lighting mods to achieve greater balance of performance to quality
+- Reworked both Vanilla & New Quest addons
+  - Previously problematic vanilla quest extenders have been removed or replaced with newer alternatives
+  - New lands mods have been updated and added to provide more exploration across Tamriel
+  - Yes, there is a lot of new JaySerpa mods...
+- Consolidated worldspace affecting mods to achieve greater consistency and stability
+  - JK's Interiors have been swapped to Distinct Interiors
+  - Settlements are now primarily covered by Axis1211 [Thanedom series](https://www.nexusmods.com/skyrimspecialedition/users/42928635)
+  - Cities have been largerly untouched from 2.4 as they were more performant.
+  - Skyrim Realistic Conquering has been removed and largely replaced by the major Lawbringer update & new addons
+- Converted Custom Skill Framework mods to utilise the new ImGui menu. More details can be [found here](https://www.nexusmods.com/skyrimspecialedition/mods/65982)
+- Removed mods which have been causing stability issues
+- Re-Checked all patching in xEdit and updated where required
+- Split and recreated genned outputs - They are now on our main Animonculory Resources page
+
+`Full Changelog coming soon`
 
 ## 2.4
 
