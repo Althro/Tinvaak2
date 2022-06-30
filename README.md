@@ -1,4 +1,4 @@
-# Tinvaak 2
+# Tinvaak
 
 Wabbajack Modlist Installer by Althro & The Animonculory.
 
@@ -67,19 +67,26 @@ This work is licensed under a
 
 Tinvaak is aimed at higher tier machines so a system like the following is advised:
 
-### 1080p
-- 2nd Gen Ryzen (2800x)/6th Gen Intel i5 CPU 
+### Minimum Specs for 1080p
+- Modern Quad or Hex core processor (R5 2800x/i5 8600k)
 - 16GB DDR4 Ram
-- SSD
-- 6GB GPU (1660 super/5600XT); 8GB GPU (1070/5700XT) recommended
+- SSD (HDD is not supported)
+- Modern 6GB (RTX 2060/5600XT) (RX 500 & GTX 10 series is not suitable).
 
-### 1440p/1080p Ultrawide
-- 3rd Gen Ryzen (3600)/9th Gen Intel i5 CPU
-- 32GB DDR4 Ram
-- NVME SSD
-- 8GB GPU (RTX 2080/6700XT); 10GB+ (RTX 3080/6800) recommended
+### Minimum Specs for 1400p/1080p Ultrawide
+- Modern Hex or Octacore processor (R7 3800x/i7 9700k)
+- 32GB DDR4 Ram (16GB may run it, but 32GB **strongly advised**)
+- NVME SSD (PCIE Gen 3 or better)
+- Modern 8GB GPU (RTX 2080/6700XT)
 
-Space required: Approx 250GB
+### My Specs -> I average a locked 72fps in most areas
+- R7 5800x
+- 32GB DDR4
+- NVME PCIE 4 SSD
+- XFX RX 6800 16GB
+- 1440p 144hz monitor
+
+Space required: Approx 200GB
 
 ## Installation
 
@@ -135,7 +142,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Game Folder
 
-Tinvaak uses a new Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
+Tinvaak uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
 
 ### BethINI
 
