@@ -13,7 +13,7 @@ The changelog continues below.
 **NOT SAVE SAFE. DO NOT EVEN TRY.**
 
 **Info**:
-- Updated base game to version 1.6.343.
+- Updated base game to version 1.6.353.
 - Added Paid Creation Club Anniversary Content (**You will need this to play this update. No I will not remove it or offer a non paid update version.**)
 - Updated all DLL based plugins to be compatible with v1.6.x or removed where incompatible.
 - Reworked Visuals to be slightly more in line with AVO.
