@@ -2,7 +2,7 @@
 
 ## Tinvaak X - "The Last Stand"
 
-`In Alpha testing phase`
+`In Beta testing phase`
 
 **FINAL PLANNED UPDATE OF TINVAAK**
 
