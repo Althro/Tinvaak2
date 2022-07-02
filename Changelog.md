@@ -2,7 +2,7 @@
 
 ## Tinvaak X - "The Last Stand"
 
-`In Beta testing phase`
+`HEAVILY DELAYED DUE TO MULTIPLE ISSUES WITH BUILD.`
 
 **FINAL PLANNED UPDATE OF TINVAAK**
 
@@ -11,33 +11,6 @@ This is the final planned update to the Tinvaak modlist. We will be sunsetting d
 The changelog continues below.
 
 **NOT SAVE SAFE. DO NOT EVEN TRY.**
-
-**Info**:
-- Updated base game to version 1.6.353.
-- Added Paid Creation Club Anniversary Content (**You will need this to play this update. No I will not remove it or offer a non paid update version.**)
-- Updated all DLL based plugins to be compatible with v1.6.x or removed where incompatible.
-- Reworked Visuals to be slightly more in line with AVO.
-  - Trees have been consolidated and tweaked to provide better performance.
-  - Removed some mods which were no longer necessary/better option already present in the list.
-  - A few other texture mods have been changed/replaced with better/more performant alternatives.
-  - Visually the list will still be different from AVO, but does now have greater consistency. 
-  - Combed through and custom picked mesh replacers to ensure consistency and optimisation.
-  - Reworked lighting mods to achieve greater balance of performance to quality.
-  - There is no longer a master facegen patch, it is all handled via individual patches. This makes it easier to change out should you wish to.
-- Reworked both Vanilla & New Quest addons.
-  - Previously problematic vanilla quest extenders have been removed or replaced with newer alternatives.
-  - New lands mods have been updated and added to provide more exploration across Tamriel.
-  - Yes, there is a lot of new JaySerpa mods...
-  - VenjHammet is amazing.
-- Consolidated worldspace affecting mods to achieve greater consistency and stability.
-  - JK's Interiors have been swapped to Distinct Interiors.
-  - Settlements are now primarily covered by Axis1211 [Thanedom series](https://www.nexusmods.com/skyrimspecialedition/users/42928635).
-  - Cities have been largerly untouched from 2.4 as they were more performant.
-  - Skyrim Realistic Conquering has been removed and largely replaced by the major Lawbringer update & new addons.
-- Converted Custom Skill Framework mods to utilise the new ImGui menu. More details can be [found here](https://www.nexusmods.com/skyrimspecialedition/mods/65982).
-- Removed mods which have been causing stability issues.
-- Re-Checked all patching in xEdit and updated where required.
-- Split and recreated genned outputs - They are now on our main Animonculory Resources page.
 
 `Full Changelog coming soon`
 
