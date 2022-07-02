@@ -79,12 +79,7 @@ Tinvaak is aimed at higher tier machines so a system like the following is advis
 - NVME SSD (PCIE Gen 3 or better)
 - Modern 8GB GPU (RTX 2080/6700XT)
 
-### My Specs -> I average a locked 72fps in most areas
-- R7 5800x
-- 32GB DDR4
-- NVME PCIE 4 SSD
-- XFX RX 6800 16GB
-- 1440p 144hz monitor
+I recommend you lock to 59fps in the ENB configuration panel. By default, the list comes locked to 59. You can unlock if you have beefier hardware, however your framerate may not be as smooth.
 
 Space required: Approx 200GB
 
