@@ -1,18 +1,16 @@
 # Changelog
 
-## Tinvaak X - "The Last Stand"
-
-`HEAVILY DELAYED DUE TO MULTIPLE ISSUES WITH BUILD.`
+## 2.4.1 - "The Last Stand"
 
 **FINAL PLANNED UPDATE OF TINVAAK**
 
-This is the final planned update to the Tinvaak modlist. We will be sunsetting development on this list once this update is released, however it will remain supported. We will not be adding any new content to the list as it is considered "finished". An update to the list will only be made if there is a major game breaking issue or the list is made unavailable due to factors outside of our control. 
+This is the final planned update to the Tinvaak modlist. We will be sunsetting development on this list once this update is released, however it will remain supported until it is replaced by the new list. We will not be adding any new content to the list as it is considered "finished". An update to the list will only be made if there is a major game breaking issue or the list is made unavailable due to factors outside of our control. 
 
-The changelog continues below.
+**Should be save safe**
 
-**NOT SAVE SAFE. DO NOT EVEN TRY.**
-
-`Full Changelog coming soon`
+- Updated SKSE to fix download issue
+- Added RaceMenu Fix for memory leak
+- Moved Generated Files to Nexus
 
 ## 2.4
 
